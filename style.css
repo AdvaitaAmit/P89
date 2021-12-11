@@ -1,0 +1,25 @@
+body{
+	background-color: #f3b2bb;
+	color: black;
+	background-image: url("cloud1.jpg");
+	background-size: cover;
+}
+
+h1{
+	font-family: 'Abril Fatface', cursive;
+}
+
+#player1_name{
+	border-radius: 25px;
+
+
+}
+#player2_name{
+	border-radius: 25px;
+
+}
+
+#img{
+	width:1000px
+}
+
