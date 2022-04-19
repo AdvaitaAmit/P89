@@ -23,3 +23,12 @@ h1{
 	width:1000px
 }
 
+#output{
+	background:white;
+	background-color: bisque;
+	border-radius: 10px;
+	border-top: 10px solid #f3b2bb
+	padding:  10px;
+	float: none;
+	text-align: left;
+}
